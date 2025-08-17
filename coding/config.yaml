@@ -1,0 +1,9 @@
+path: C:/Users/rudra/Desktop/coding  # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/train  # val images (relative to 'path')
+
+# Classes
+names:
+  0: car
+  1: truck
+  2: bike
